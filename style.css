@@ -1,0 +1,36 @@
+img {
+    display: block;
+    float: right;
+    width: 200px;
+}
+table {
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+
+h2 {
+    color: #2e6ce3;
+    background: #6e99f3;
+}
+
+.b1 {
+    color: #6e99f3;
+}
+
+.td1 {
+    border: 1px solid black;
+    color: #6e99f3;
+}
+
+.tr1 {
+    border: 1px solid black;
+    background: #c4c4c4;
+}
+
+.td2 {
+    border: 1px solid black;
+    color: blue;
+}
+.td3{
+    border: 1px solid black;
+}
