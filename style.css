@@ -1,3 +1,7 @@
+body{
+    background-image: url("img/img_1.png");
+}
+
 img {
     display: block;
     float: right;
@@ -9,8 +13,8 @@ table {
 }
 
 h2 {
-    color: #2e6ce3;
-    background: #6e99f3;
+    color: rgb(46, 108, 227);
+    background: rgba(110, 153, 243, 0.12);
 }
 
 .b1 {
@@ -18,19 +22,23 @@ h2 {
 }
 
 .td1 {
+    background-color: rgba(0, 0, 0, 0);
     border: 1px solid black;
     color: #6e99f3;
 }
 
 .tr1 {
+    background-color: rgba(0, 0, 0, 0);
     border: 1px solid black;
-    background: #c4c4c4;
+    background: rgba(196, 196, 196, 0.39);
 }
 
 .td2 {
+    background-color: rgba(0, 0, 0, 0);
     border: 1px solid black;
     color: blue;
 }
 .td3{
+    background-color: rgba(0, 0, 0, 0);
     border: 1px solid black;
 }
